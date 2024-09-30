@@ -6,6 +6,7 @@ public class Driver extends Sad {
 		System.out.println("Our team is getting started.");
 		Driver r = new Driver();
 		r.sad();
+		r.happy();
 		
 	}
 
