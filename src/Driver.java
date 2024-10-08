@@ -9,5 +9,6 @@ public class Driver {
         
         Hungry y = new Hungry();
         y.hungry();
+        y.thirsty();
     }
 }
