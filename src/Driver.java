@@ -5,6 +5,7 @@ public class Driver {
         System.out.println("Our team is getting started.");
         Sad x = new Sad();
         x.Sad();
+        x.Happy();
         
         Hungry y = new Hungry();
         y.hungry();
